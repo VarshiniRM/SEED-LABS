@@ -281,3 +281,7 @@ Memory Disclosure: Using %x or %s to read from arbitrary memory locations
 
 Secure Coding Practices: Safely handling format strings and preventing user-controlled input from influencing format functions
 _____________________________________________________________________________________________________________________________________________________________
+
+⚠️ Disclaimer All activities were performed in a controlled, ethical lab environment for educational and research purposes only. Do not attempt these attacks on networks you do not own or have permission to test.
+⚠️ Conducted in a safe lab environment for educational use only.
+
